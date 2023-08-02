@@ -28,15 +28,14 @@ _____
 
 ##### Database
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgre,sqlite" />
-
-MySQL, mongoDB, PostgreSQL
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" />
 
 _____
 
  ##### Others
  
  Postman, Git y Github, Azure devops
+ <img src="https://skillicons.dev/icons?i=postman,git,github,gitlab,azure" />
 
 
 #### If you want to know my projects please contact me:
