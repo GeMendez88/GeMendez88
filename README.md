@@ -24,11 +24,11 @@ ____
 
 <img src="https://skillicons.dev/icons?i=django,dotnet,js,html,css,bootstrap" />
 
-Django, .Net core, JavaScript, HTML, CSS, Bootstrap
-
 _____
 
 ##### Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgre,sqlite" />
 
 MySQL, mongoDB, PostgreSQL
 
