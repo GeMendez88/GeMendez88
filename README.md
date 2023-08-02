@@ -16,7 +16,7 @@ ___
 
 ##### Backend Development
 
-<img src="https://skillicons.dev/icons?i=python,cs" />
+<img src="https://skillicons.dev/icons?i=py,cs" />
 
 ____
 
@@ -28,14 +28,14 @@ _____
 
 ##### Database
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" />
 
 _____
 
  ##### Others
  
  Postman, Git y Github, Azure devops
- <img src="https://skillicons.dev/icons?i=postman,git,github,gitlab,azure" />
+ <img src="https://skillicons.dev/icons?i=postman,git,github,gitlab,azure,docker" />
 
 
 #### If you want to know my projects please contact me:
