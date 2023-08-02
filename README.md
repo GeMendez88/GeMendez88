@@ -16,7 +16,11 @@ ___
 
 ##### Backend Development
 
-Python, C#, SQL
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python,cs" />
+  </a>
+</p>
 
 ____
 
