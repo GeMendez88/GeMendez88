@@ -34,7 +34,6 @@ _____
 
  ##### Others
  
- Postman, Git y Github, Azure devops
  <img src="https://skillicons.dev/icons?i=postman,git,github,gitlab,azure,docker" />
 
 
