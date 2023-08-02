@@ -16,7 +16,7 @@ ___
 
 ##### Backend Development
 
-<img src="https://skillicons.dev/icons?i=py,cs" />
+<img src="https://skillicons.dev/icons?i=py,cs, python" />
 
 ____
 
