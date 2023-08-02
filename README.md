@@ -16,15 +16,13 @@ ___
 
 ##### Backend Development
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,cs" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=python,cs" />
 
 ____
 
 ##### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=django,dotnet,js,html,css,bootstrap" />
 
 Django, .Net core, JavaScript, HTML, CSS, Bootstrap
 
