@@ -44,6 +44,6 @@ _____
   linkedin </a>
 
 <a href="mailto:gerardomendesz@gmail.com " target="blank">
-<img align="center" src="" alt="" height="30" width="40" />
+<img align="center" src="https://icon-icons.com/icon/gmail-button/151848" alt="" height="30" width="40" />
   gerardomendesz@gmail.com </a>
 </p>
