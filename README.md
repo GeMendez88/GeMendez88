@@ -7,12 +7,9 @@
 
 - Improving knowledge in Data Analisys, Data Engineering and Data Science
 - Getting knowledge in Machine Learning
-- Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
+- Collaborate in develop projects with python or C#
 - Personal projects with python, C#
 ___
-
-
-#### Knowledge:
 
 ##### Backend Development
 
