@@ -1,5 +1,5 @@
 ### Hello! my name is Gerardo Mendez 👋
-#### Junior developer and QA Engineer 💻
+#### Software developer and QA Engineer 💻
 
 
 
@@ -7,8 +7,7 @@
 
 - Improving knowledge in Data Analisys, Data Engineering and Data Science
 - Getting knowledge in Machine Learning
-- Collaborate in develop projects with python or C#
-- Personal projects with python, C#
+- Collaborating in develop projects with python and Django
 ___
 
 ##### Backend Development
@@ -44,6 +43,6 @@ _____
   linkedin </a>
 
 <a href="mailto:gerardomendesz@gmail.com " target="blank">
-<img align="center" src="https://icon-icons.com/icon/gmail-button/151848" alt="" height="30" width="40" />
+<img align="center" src="[https://icon-icons.com/icon/gmail-button/151848](https://favpng.com/png_view/triangle-gmail-icon-gmail-icon-png/w2peY0b5)https://favpng.com/png_view/triangle-gmail-icon-gmail-icon-png/w2peY0b5" alt="" height="30" width="40" />
   gerardomendesz@gmail.com </a>
 </p>
