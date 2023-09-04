@@ -35,8 +35,6 @@ _____
 
 #### If you want to know my projects please contact me:
 
-#### ¿Hablamos?☕️
-
 <p align="left">
 <a href="https://www.linkedin.com/in/gerardo-mendez-051780127/" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="" height="30" width="40" />
