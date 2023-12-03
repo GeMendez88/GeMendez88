@@ -5,9 +5,9 @@
 
 #### Actually working on:
 
-- Improving knowledge in Data Analisys, Data Engineering and Data Science
-- Getting knowledge in Machine Learning
-- Collaborating in develop projects with python and Django
+- Improving knowledge in Data Analisys, Data Engineering and Data Science.
+- Collaborating in develop projects with python and Django.
+- creating C# Projects for personal growth and knowledge.
 ___
 
 ##### Backend Development
