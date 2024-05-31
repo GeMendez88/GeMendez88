@@ -3,11 +3,15 @@
 
 
 
-#### Actually working on:
+#### Summary:
 
-- Improving knowledge in Data Analisys, Data Engineering and Data Science.
-- Collaborating in develop projects with python and Django.
-- creating C# Projects for personal growth and knowledge.
+Experienced software developer in Python, Django, C#, and .NET with a solid 
+understanding of Azure fundamentals. Skilled in developing web applications 
+using Python frameworks like Django, as well with C# and .NET technologies. 
+Expertise in version control with Git, ensuring efficient collaboration and code 
+management within development teams. Excellent problem-solving skills, 
+communication, and teamwork with agile methodologies as scrum. 
+
 ___
 
 ##### Backend Development
